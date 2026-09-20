@@ -1,3 +1,9 @@
+---
+layout: page
+title: Specified Commercial Transactions Act Disclosure
+permalink: /en/tokusho/
+---
+
 # Specified Commercial Transactions Act Disclosure
 
 **Effective Date: October 1, 2026**  

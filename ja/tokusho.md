@@ -1,3 +1,9 @@
+---
+layout: page
+title: Le’memo 特定商取引法に基づく表記
+permalink: /ja/tokusho/
+---
+
 # 特定商取引法に基づく表記
 
 **施行日：2026年10月1日**  

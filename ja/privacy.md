@@ -1,3 +1,9 @@
+---
+layout: page
+title: Le’memo プライバシーポリシー
+permalink: /ja/privacy/
+---
+
 # Le’memo プライバシーポリシー
 
 **施行日：2026年10月1日**  

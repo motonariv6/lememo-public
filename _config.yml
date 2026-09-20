@@ -1,4 +1,12 @@
 title: Le’memo
-description: Legal and privacy information for Le’memo
+description: Legal, privacy and support information for Le’memo
+lang: ja
 theme: minima
+
+url: "https://motonariv6.github.io"
+baseurl: "/lememo-public"
+
+header_pages:
+  - index.md
+
 markdown: kramdown

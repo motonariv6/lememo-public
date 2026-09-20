@@ -1,3 +1,9 @@
+---
+layout: page
+title: Le’memo Terms of Use
+permalink: /en/terms/
+---
+
 # Le’memo Terms of Use
 
 **Effective Date: October 1, 2026**  

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Le’memo Privacy Policy
+permalink: /en/privacy/
+---
+
 # Le’memo Privacy Policy
 
 **Effective Date: October 1, 2026**  

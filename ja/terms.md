@@ -1,3 +1,11 @@
+---
+layout: page
+title: Le’memo 利用規約
+permalink: /ja/terms/
+---
+
+# Le’memo 利用規約
+
 # Le’memo 利用規約
 
 **施行日：2026年10月1日**  
