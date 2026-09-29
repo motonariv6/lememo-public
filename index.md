@@ -17,6 +17,7 @@ permalink: /
       <li><a href="{{ '/ja/terms/' | relative_url }}">利用規約</a></li>
       <li><a href="{{ '/ja/privacy/' | relative_url }}">プライバシーポリシー</a></li>
       <li><a href="{{ '/ja/tokusho/' | relative_url }}">特定商取引法に基づく表記</a></li>
+      <li><a href="{{ '/ja/support/' | relative_url }}">サポート</a></li>
     </ul>
   </div>
 
@@ -26,6 +27,7 @@ permalink: /
       <li><a href="{{ '/en/terms/' | relative_url }}">Terms of Use</a></li>
       <li><a href="{{ '/en/privacy/' | relative_url }}">Privacy Policy</a></li>
       <li><a href="{{ '/en/tokusho/' | relative_url }}">Specified Commercial Transactions Act Disclosure</a></li>
+      <li><a href="{{ '/en/support/' | relative_url }}">Support</a></li>
     </ul>
   </div>
 
