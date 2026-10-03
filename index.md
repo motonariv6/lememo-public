@@ -35,6 +35,7 @@ permalink: /
 
   <div class="support-card">
     <h2>日本語</h2>
+    <ul>
       <li><a href="{{ '/ja/delete-account/' | relative_url }}">アカウント削除</a></li>
       <li><a href="{{ '/ja/support/' | relative_url }}">サポート</a></li>
     </ul>
